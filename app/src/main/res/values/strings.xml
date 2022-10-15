@@ -1,0 +1,36 @@
+<resources>
+    <string name="app_name">Zomato Clone GDSC</string>
+    <string name="invalid_number">Invalid Phone Number</string>
+    <string name="terms_of_service">Terms of Service</string>
+    <string name="privacy_policy">Privacy Policy</string>
+    <string name="content_policy">Content Policy</string>
+    <string name="by_continuing_you_agree_to_our">By continuing, you agree to our</string>
+    <string name="login_page_top_heading_one">India\'s #1 Food Delivery</string>
+    <string name="login_page_top_heading_two">and Dining App</string>
+    <string name="login_or_signup">Log in or sign up</string>
+    <string name="or_divider_text">or</string>
+    <string name="skip_button_text">Skip</string>
+    <string name="continue_button_text">Continue</string>
+    <string name="google_logo">Google Logo</string>
+    <string name="three_dots_logo">Three Dots</string>
+    <string name="delivery_bottom_nav">Delivery</string>
+    <string name="dining_bottom_nav">Dining</string>
+    <string name="wallet_bottom_nav">Wallet</string>
+    <string name="zomaland_bottom_nav">Zomaland</string>
+    <string name="pure_veg_restaurant">PURE VEG RESTAURANT</string>
+    <string name="restaurant_image">Restaurant Image</string>
+    <string name="promoted_text">Promoted</string>
+    <string name="like_button_text">Like Button</string>
+    <string name="zomato_recycles_text">Zomato recycles more plastic than used in orders</string>
+    <string name="recycle">Recycle</string>
+    <string name="offer_percentage">Offer Percentage</string>
+    <string name="pure_veg">PURE VEG</string>
+    <string name="bestseller">Bestseller</string>
+    <string name="veg_or_non_veg_icon">Veg or Non-Veg Icon</string>
+    <string name="must_try">Must Try</string>
+
+<!--    <string name="home_screen_route">home_screen</string>-->
+<!--    <string name="dining_screen_route">dining_screen</string>-->
+<!--    <string name="restaurant_screen_route">restaurant_screen</string>-->
+<!--    <string name="wallet_screen_route">wallet_screen</string>-->
+</resources>
